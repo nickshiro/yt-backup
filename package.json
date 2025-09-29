@@ -9,5 +9,8 @@
 		"@biomejs/biome": "2.2.4",
 		"@types/bun": "^1.2.23",
 		"typescript": "^5.9.2"
+	},
+	"dependencies": {
+		"grammy": "^1.38.2"
 	}
 }
